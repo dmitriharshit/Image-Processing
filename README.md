@@ -1,7 +1,7 @@
 # Image-Processing
 Project by Stamatics Society, IITK
 
-Week-Wise Plan:
+Week-Wise Plan:<br/>
 • Week 1
    ○ Overview of overall course structure and projects.
    ○ Covering Basics of Probability to prepare for special distributions.
