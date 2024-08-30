@@ -27,9 +27,5 @@ Week-Wise Plan:<br/>
  ○ Image segmentation<br/>
  ○ Assignment on how to use the two concepts to solve problems<br/>
 <br/>
-•Week 6<br/>
- ○ ML Project on image segmentation.<br/>
- ○ Doubt clearing sessions for ML project.<br/>
- ○ Basic overview of image denoising.<br/>
 
 
